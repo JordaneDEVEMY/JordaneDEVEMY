@@ -4,7 +4,7 @@
 
 - 🥖 French, 30yo
 - 🔎 I’m currently learning JavaScript with O'Clock
-- 🥅 2022 Goals: find a 16-month work-study program 🤞
+- 🥅 2022 Goals: find a job 🤞
 - 🥗 Fun fact: I'm Vegan 
 
 ### Languages and Tools:
