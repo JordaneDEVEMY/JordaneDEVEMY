@@ -3,9 +3,10 @@
 ## I'm in Web Development study
 
 - 🥖 French, 30yo
-- 🔎 I’m currently learning JavaScript with O'Clock
+- 🔎 I’m currently looking for a job in fullstack web development
 - 🥅 2022 Goals: find a job 🤞
 - 🥗 Fun fact: I'm Vegan 
+- 🏫 Link to the Youtube presentation of my graduation project (FR): [Link](https://www.youtube.com/watch?v=Vdx7nAM-qWY)
 
 ### Languages and Tools:
 
