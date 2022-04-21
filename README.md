@@ -1,12 +1,11 @@
 ### Hi there, I'm Jordane 👋 
 
-## I'm in Web Development study
+## I'm Full Stack Web Developer 
 
 - 🥖 French, 30yo
-- 🔎 I’m currently looking for a job in fullstack web development
-- 🥅 2022 Goals: find a job 🤞
+- 🔎 I’m currently full stack developer PHP/REACT
+- 🥅 2022 Goals: Still be on vacation because I love my occupation 😎
 - 🥗 Fun fact: I'm Vegan 
-- 🏫 Link to the Youtube presentation of my graduation project (FR): [Link](https://www.youtube.com/watch?v=Vdx7nAM-qWY)
 
 ### Languages and Tools:
 
@@ -14,18 +13,20 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="bottom-left" alt="Express" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="Express" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="PHP" width="40px" src="https://user-images.githubusercontent.com/76247941/164509597-fbbba3fb-dbc2-454c-be7e-24df4053ecb2.png" />
+<img align="bottom-left" alt="Laravel" width="40px" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/76247941/164510547-6f5693f8-910c-4886-a095-f61d89384ff3.png" />
+<img align="left" alt="MariaDB" width="40px" src="https://user-images.githubusercontent.com/76247941/164510464-36f92863-a3cb-47a5-ba45-70e2e98efa27.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="GraphQL" width="40px" src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" />
-<img align="left" alt="Jest" width="40px"src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Jest" width="40px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 
 <br />
 <br />
